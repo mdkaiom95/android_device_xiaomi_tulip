@@ -161,4 +161,8 @@
         C-297.156539,0.363960295 -299.941007,0 -303,0
         Z
     </string>
+
+    <!-- Whether the device supports Smart Pixels -->
+    <bool name="config_enableSmartPixels">true</bool>
+    
 </resources>
