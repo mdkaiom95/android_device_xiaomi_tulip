@@ -18,7 +18,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Display
 PRODUCT_PROPERTY_OVERRIDES += \
-   ro.sf.lcd_density=440
+   ro.sf.lcd_density=392
 
 # Havoc
 PRODUCT_PROPERTY_OVERRIDES += \
