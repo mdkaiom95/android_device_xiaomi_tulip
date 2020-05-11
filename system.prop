@@ -1,2 +1,5 @@
 # Netflix
 ro.netflix.bsp_rev=Q660-13149-1
+
+# keyboard_bottom_padding
+ro.com.google.ime.kb_pad_port_b=1
