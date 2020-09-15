@@ -42,3 +42,5 @@ BUILD_FINGERPRINT := "google/coral/coral:11/RP1A.200720.009/6720564:user/release
 
 # Havoc
 export export HAVOC_BUILD_TYPE=Official
+HAVOC_MAINTAINER := Akhil MS (akhilmsachu)
+HAVOC_GROUP_URL := https://t.me/havoc_tulip
