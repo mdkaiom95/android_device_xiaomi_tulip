@@ -53,7 +53,7 @@ BOARD_VENDORIMAGE_PARTITION_SIZE := 2147483648
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/fstab.qcom
 
 # Security patch level
-VENDOR_SECURITY_PATCH := 2020-02-05
+VENDOR_SECURITY_PATCH := 2020-07-05
 
 # Inherit the proprietary files
 -include vendor/xiaomi/tulip/BoardConfigVendor.mk
