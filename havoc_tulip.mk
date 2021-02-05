@@ -40,5 +40,3 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 BUILD_FINGERPRINT := "google/coral/coral:11/RQ1A.210105.003/7005429:user/release-keys"
 
-# Havoc
-export export HAVOC_BUILD_TYPE=Official
