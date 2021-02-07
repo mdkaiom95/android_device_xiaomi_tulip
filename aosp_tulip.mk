@@ -28,7 +28,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := tulip
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_NAME := havoc_tulip
+PRODUCT_NAME := aosp_tulip
 PRODUCT_MODEL := Redmi Note 6 Pro
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
@@ -38,5 +38,5 @@ TARGET_VENDOR_PRODUCT_NAME := tulip
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="tulip-user 9 PKQ1.180904.001 V10.3.2.0.PEKMIXM release-keys"
 
-BUILD_FINGERPRINT := "google/coral/coral:11/RQ1A.210105.003/7005429:user/release-keys"
+BUILD_FINGERPRINT := "google/coral/coral:11/RQ1A.210205.004/7038034:user/release-keys"
 
