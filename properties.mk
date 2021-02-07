@@ -16,7 +16,3 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.imx376_sunny.light.lux=275 \
     persist.vendor.imx376_sunny.low.lux=290
 
-# Havoc
-PRODUCT_PROPERTY_OVERRIDES += \
-   ro.havoc.maintainer=AkhilMsAchu
-
